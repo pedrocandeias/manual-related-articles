@@ -1,0 +1,49 @@
+#mra_related_posts_list {
+    margin-top: 10px;
+}
+
+.mra-related-post-item {
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+}
+
+.ui-dialog {
+    z-index: 1001 !important;
+}
+
+.ui-widget-overlay {
+    z-index: 1000 !important;
+}
+
+ul#mra_related_posts_list li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+
+ a.mra-remove-post-item {
+    width:85%;
+    display: inline-flex;
+}
+
+a.mra-remove-post {
+    margin-right:7px;
+    display: inline-flex;
+}
+
+a.mra-remove-post span{
+    background-color: #006dac !important;
+    color: #fff;
+    border-radius: 50%;
+    width: 10px !important;
+    height: 10px !important;
+    display: block;
+    padding: 5px 5px 5PX 6px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 0.7em;
+    text-decoration: none;
+  }

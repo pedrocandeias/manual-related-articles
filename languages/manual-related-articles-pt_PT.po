@@ -1,0 +1,17 @@
+msgid "Manual Related Articles"
+msgstr "Artigos Relacionados Manualmente"
+
+msgid "Post Types"
+msgstr "Tipos de Postagem"
+
+msgid "Maximum Related Posts"
+msgstr "Máximo de Artigos Relacionados"
+
+msgid "Search and select related posts:"
+msgstr "Pesquise e selecione artigos relacionados:"
+
+msgid "No posts found."
+msgstr "Nenhum artigo encontrado."
+
+msgid "Remove"
+msgstr "Remover"
